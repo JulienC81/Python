@@ -104,5 +104,6 @@ venv.bak/
 .mypy_cache/
 
 # Personnal files
-Test\
-DL\
+Test/
+DL/
+Cours/
